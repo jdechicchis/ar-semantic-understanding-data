@@ -1,0 +1,10 @@
+{
+    "Unknown": 0,
+    "Bookshelf": 1,
+    "Desk/Table/Counter": 2,
+    "Chair": 3,
+    "Book/Paper": 4,
+    "Picture": 5,
+    "Window": 6,
+    "Door": 7
+}
